@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Token 2", "Token 2.csproj", "{477BF614-7533-40BC-8422-86E307A37CE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{477BF614-7533-40BC-8422-86E307A37CE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{477BF614-7533-40BC-8422-86E307A37CE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{477BF614-7533-40BC-8422-86E307A37CE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{477BF614-7533-40BC-8422-86E307A37CE2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4DAB8F2-D435-4080-86AE-E8BC8AD26CC9}
+	EndGlobalSection
+EndGlobal
